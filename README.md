@@ -1,2 +1,2 @@
 # nodeTutorial
-Learning node
+Learning Node
