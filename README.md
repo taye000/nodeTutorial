@@ -1,2 +1,2 @@
 # nodeTutorial
-Learning NodeJS
+Learning node
